@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e6a80f4-71c3-4dfb-b7d9-947536a615b8" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/questionListError.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4245">
+              <caret line="283" column="21" selection-start-line="283" selection-start-column="12" selection-end-line="283" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/register.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="177" lean-forward="true" selection-start-line="177" selection-end-line="177" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/questionList.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3695">
+              <caret line="451" column="46" selection-start-line="451" selection-start-column="24" selection-end-line="451" selection-end-column="46" />
+              <folding>
+                <element signature="n#style#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#2;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/online.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" column="37" lean-forward="true" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/no.tpl">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>question</find>
+      <find>header</find>
+      <find>box</find>
+      <find>submitQuestion</find>
+      <find>127</find>
+      <find>127.0.0.1</find>
+      <find>http://www.bestjan.com:8080</find>
+      <find>mobile-num</find>
+      <find>top2-font-number</find>
+      <find>https://cw.bestjan.com</find>
+      <find>https://127.0.0.1:8080</find>
+      <find>body-block</find>
+      <find>item-block</find>
+      <find>top2-font-nickname</find>
+      <find>getCategroy</find>
+      <find>http://127.0.0.1:8080</find>
+      <find>header-title</find>
+      <find>AdminLTE</find>
+      <find>No Navbar border</find>
+      <find>Responsive Hover Table</find>
+      <find>Dashboard v1y</find>
+      <find>Simple Tables</find>
+      <find>nav-item has-treeview</find>
+      <find>nav-item has-treeview menu-open</find>
+      <find>msQuestion</find>
+      <find>getUserQuestionLastId</find>
+      <find>lastQuestionId</find>
+      <find>$('.box').attr(&quot;lastQuestionId&quot;</find>
+      <find>$('#Total').val(result</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>www.bestjan.com</replace>
+      <replace>https://x.bestjan.com</replace>
+      <replace>https://127.0.0.1:8080</replace>
+      <replace>http://127.0.0.1:8080</replace>
+      <replace>https://cw.bestjan.com</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/gl.tpl" />
+        <option value="$PROJECT_DIR$/VipUser.tpl" />
+        <option value="$PROJECT_DIR$/OrdinaryUser.tpl" />
+        <option value="$PROJECT_DIR$/questionList.tpl" />
+        <option value="$PROJECT_DIR$/questionListError.tpl" />
+        <option value="$PROJECT_DIR$/online.tpl" />
+        <option value="$PROJECT_DIR$/no.tpl" />
+        <option value="$PROJECT_DIR$/register.tpl" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="849" />
+    <option name="y" value="361" />
+    <option name="width" value="1713" />
+    <option name="height" value="1131" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="views" type="b2602c69:ProjectViewProjectNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e6a80f4-71c3-4dfb-b7d9-947536a615b8" name="Default Changelist" comment="" />
+      <created>1595131359156</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595131359156</updated>
+      <workItem from="1595131360291" duration="251000" />
+      <workItem from="1595131824283" duration="3673000" />
+      <workItem from="1595206846806" duration="6160000" />
+      <workItem from="1595215669310" duration="8694000" />
+      <workItem from="1595316701057" duration="8677000" />
+      <workItem from="1595383730289" duration="4335000" />
+      <workItem from="1595402086144" duration="5824000" />
+      <workItem from="1595471171380" duration="520000" />
+      <workItem from="1595488785142" duration="9861000" />
+      <workItem from="1595764377165" duration="550000" />
+      <workItem from="1595767825452" duration="3714000" />
+      <workItem from="1595815463396" duration="3961000" />
+      <workItem from="1595828902212" duration="2504000" />
+      <workItem from="1595901822334" duration="5137000" />
+      <workItem from="1595916678279" duration="4538000" />
+      <workItem from="1595989146991" duration="114000" />
+      <workItem from="1596041951319" duration="2000" />
+      <workItem from="1596078695050" duration="920000" />
+      <workItem from="1596104410696" duration="38000" />
+      <workItem from="1596104936510" duration="388000" />
+      <workItem from="1596517931478" duration="595000" />
+      <workItem from="1596536177420" duration="2000" />
+      <workItem from="1596695496780" duration="5450000" />
+      <workItem from="1596722745978" duration="3200000" />
+      <workItem from="1596769696952" duration="3719000" />
+      <workItem from="1596781706741" duration="1178000" />
+      <workItem from="1596784169916" duration="561000" />
+      <workItem from="1596943527983" duration="679000" />
+      <workItem from="1597050800868" duration="10800000" />
+      <workItem from="1597119407796" duration="540000" />
+      <workItem from="1597127232590" duration="9893000" />
+      <workItem from="1597197765917" duration="4376000" />
+      <workItem from="1597218374623" duration="864000" />
+      <workItem from="1597301557126" duration="1408000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="113126000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="849" y="361" width="1713" height="1131" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10874704" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/gl.tpl" />
+    <entry file="file://$PROJECT_DIR$/OrdinaryUser.tpl" />
+    <entry file="file://$PROJECT_DIR$/VipUser.tpl" />
+    <entry file="file://$PROJECT_DIR$/questionListError.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4245">
+          <caret line="283" column="21" selection-start-line="283" selection-start-column="12" selection-end-line="283" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/questionList.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3695">
+          <caret line="451" column="46" selection-start-line="451" selection-start-column="24" selection-end-line="451" selection-end-column="46" />
+          <folding>
+            <element signature="n#style#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#2;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/no.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="2" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/online.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="37" lean-forward="true" selection-start-line="29" selection-start-column="12" selection-end-line="29" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/register.tpl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="177" lean-forward="true" selection-start-line="177" selection-end-line="177" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
